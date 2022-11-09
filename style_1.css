@@ -1,0 +1,21 @@
+body{
+    background:rgb(238, 197, 189);
+    background-repeat: round ;
+    font-family: "Oswald", sans-serif;
+}
+h1{
+    font-family: "Oswald", sans-serif;
+}
+p{
+    font-family: "Oswald", sans-serif;
+    padding-left: 350px;
+    padding-right: 350px;
+    font-size: 20px;
+    text-align: justify;
+}
+h5{
+    padding-left: 350px;
+}
+h6{
+    padding-left: 350px;
+}
